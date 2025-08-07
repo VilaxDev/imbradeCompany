@@ -782,7 +782,10 @@ const App: React.FC = () => {
                 <a href="#" className="social-link">
                   <i className="fab fa-github"></i>
                 </a>
-                <a href="#" className="social-link">
+                <a
+                  href="https://web.facebook.com/ImbradeCompany/"
+                  className="social-link"
+                >
                   <i className="fab fa-facebook"></i>
                 </a>
               </div>
